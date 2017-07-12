@@ -1,0 +1,1 @@
+这是一个javascript代码文件，它能使你很方面地在html里进行触发post操作
